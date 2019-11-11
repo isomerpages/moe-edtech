@@ -7,9 +7,11 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Who We Are
-    collection: who-we-are
-  - title: What We Do
-    collection: what-we-do
+  - title: About
+    url: /about/
+  - title: Programme
+    collection: programme
+  - title: FAQ
+    collection: faq
+  - title: Contact
+    url: /contact/
