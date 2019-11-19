@@ -10,8 +10,21 @@ links:
   - title: About
     url: /about/
   - title: Programme
-    collection: programme
+    url: /programme/
+    sub-links:
+    - title: Recognition Ceremony
+      url: /programme/recognition-ceremony/
+    - title: Keynote Sessions
+      url: /programme/keynote-sessions/
+    - title: Panel Discussion
+      url: /programme/panel-discussion/
+    - title: Round-table Discussion
+      url: /programme/roundtable-discussion/
+    - title: Sharing Sessions
+      url: /programme/sharing-sessions/
+    - title: Exploration Session
+      url: /programme/exploration-session/
   - title: FAQ
-    collection: faq
+    url: /faq/
   - title: Contact
     url: /contact/
