@@ -4,20 +4,7 @@ links:
   - title: About
     url: /about/
   - title: Programme
-    url: /programme/
-    sub-links:
-    - title: Recognition Ceremony
-      url: /recognition-ceremony/
-    - title: Keynote Sessions
-      url: /keynote-sessions/
-    - title: Panel Discussion
-      url: /panel-discussion/
-    - title: Round-table Discussion
-      url: /roundtable-discussion/
-    - title: Sharing Sessions
-      url: /sharing-sessions/
-    - title: Exploration Session
-      url: /exploration-session/
+    collection: programme
   - title: FAQ
     url: /faq/
   - title: Contact
