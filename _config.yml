@@ -3,9 +3,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
 collections:
-  who-we-are:
-    output: true
-  what-we-do:
+  programme:
     output: true
 
 ##################################################################################################################
@@ -32,4 +30,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
-
