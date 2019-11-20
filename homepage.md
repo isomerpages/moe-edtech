@@ -20,8 +20,4 @@ sections:
               url: /sharing-sessions/
             - title: Exploration Session
               url: /exploration-session/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
 ---
