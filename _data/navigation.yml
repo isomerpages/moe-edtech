@@ -6,7 +6,17 @@ links:
   - title: Programme
     sublinks:
       - title: Keynote Sessions
-        url: /programme/keynote-sessions
+        url: /programme/keynote-sessions/
+      - title: Panel Discussion
+        url: /programme/panel-discussion/
+      - title: Sharing Sessions
+        url: /programme/sharing-sessions/
+      - title: Roundtable Discussion
+        url: /programme/roundtable-discussion/
+      - title: Exploration Session
+        url: /programme/exploration-session/
+      - title: Recognition Ceremony
+        url: /programme/recognition-ceremony/
   - title: FAQ
     url: /faq/
   - title: Contact
