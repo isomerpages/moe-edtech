@@ -7,7 +7,7 @@ notification: Registration will commence from 2 Jan 2020 onwards!
 sections:
     - hero:
         title: MakerConnect 2020
-        subtitle: Connecting MOE educators in Maker Education
+        subtitle: Exploring Possibilities
         background: /images/hero-banner.png
         url: /contact-us/
         button: Contact Us
