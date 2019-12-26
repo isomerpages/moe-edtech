@@ -6,7 +6,11 @@ permalink: /
 notification: Registration will commence from 2 Jan 2020 onwards! 
 sections:
     - hero:
+        title: MakerConnect 2020
+        subtitle: Exploring Possibilities
         background: /images/hero-banner.png
+        url: /contact-us/
+        button: Contact
         key_highlights:
             - title: Keynote Sessions
               url: /keynote-sessions/
