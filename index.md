@@ -10,7 +10,7 @@ sections:
         subtitle: Exploring Possibilities
         background: /images/hero-banner.png
         url: /contact-us/
-        button: Contact
+        button: Contact Us
         key_highlights:
             - title: Keynote Sessions
               url: /keynote-sessions/
