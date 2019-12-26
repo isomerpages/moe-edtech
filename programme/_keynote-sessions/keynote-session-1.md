@@ -15,6 +15,7 @@ Today's students need to be prepared for future careers and workplaces in which 
 **Keynote Speaker:**
 
 Dr Jackie Gerstein
+
 *Gifted Teacher and EdTech Adjunct Faculty, Walden and Western Governors Universities and Santa Fe Public Schools*
 
 **Biography:**
