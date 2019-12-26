@@ -16,10 +16,7 @@ Today's students need to be prepared for future careers and workplaces in which 
 
 Dr Jackie Gerstein
 
-*Gifted Teacher
-EdTech Adjunct Faculty 
-Walden and Western Governors Universities
-Santa Fe Public Schools*
+*Gifted Teacher and EdTech Adjunct Faculty, Walden and Western Governors Universities and Santa Fe Public Schools*
 
 **Biography:**
 
