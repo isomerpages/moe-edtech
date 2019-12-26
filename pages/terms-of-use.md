@@ -9,7 +9,7 @@ permalink: /terms-of-use/
 1. Thank you for visiting this Website (“The Website”). The Website is owned and maintained by the Ministry of Education, Singapore (hereinafter “MOE”).
 2. All access of any area of The Website is governed by the terms and conditions below (“Terms”). If you do not accept any of these Terms, exit immediately. Continue only if you accept these terms.
 3. In these Terms, the words “we,” “our” and “us” refer to MOE.
-4. ETD reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
+4. MOE reserves the right to change these Terms from time to time. Your use of The Website constitutes your agreement to any modified Terms.
 
 #### **Access to The Website**
 
