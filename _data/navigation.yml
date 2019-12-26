@@ -5,6 +5,8 @@ links:
     url: /about/
   - title: Programme
     sublinks:
+      - title: Schedule
+        url: /programme/schedule/
       - title: Keynote Sessions
         url: /programme/keynote-sessions/
       - title: Panel Discussion
