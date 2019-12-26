@@ -1,6 +1,7 @@
 ---
 title: Keynote Session 1
 permalink: /programme/keynote-sessions/keynote-session-1
+third_nav_title: Keynote Session 1
 ---
 
 ## Keynote Session 1
