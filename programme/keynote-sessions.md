@@ -1,6 +1,9 @@
 ---
+layout:leftnav-page-content
 title: Keynote Sessions
-permalink: /programme/keynote-sessions/
+permalink: /keynote-sessions/
+breadcrumb: Keympte Sessions
+collection_name: Programme
 ---
 
 ## Keynote Session 1
