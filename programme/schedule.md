@@ -4,4 +4,5 @@ title: Schedule
 permalink: /programme/schedule/
 ---
 
-images/Programme.png
+![Strategy Group officers image]({{"/images/Programme.png" | absolute_url}})
+
