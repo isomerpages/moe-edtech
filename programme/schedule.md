@@ -2,8 +2,7 @@
 title: Schedule
 permalink: /programme/schedule/
 ---
-Programme
-|                        |                      |                   |                     |
+| Programme              |                      |                   |                     |
 |------------------------|----------------------|-------------------|---------------------|
 | 0900 - 0910hr (10 min) |    Welcome Address   |                   |                     |
 | 0910 - 0920hr (10 min) | Recognition Ceremony |                   |                     |
@@ -15,6 +14,6 @@ Programme
 | 1420 - 1520hr (60 min) | Fireside Chat        | Sharing Session 3 | Exploration Session |
 | 1520 - 1550hr (30 min) | Tea Break            |                   |                     |
 | 1550 - 1650hr (60 min) | Panel Discussion     |                   |                     |
-| 1650 - 1700hr (10 min) | Closing Address      |                   |                     
+| 1650 - 1700hr (10 min) | Closing Address      |                   |                     |
 
 ![Scedule image](/images/Programme.png)
