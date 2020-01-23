@@ -14,9 +14,17 @@ Today's students need to be prepared for future careers and workplaces in which 
 
 **Keynote Speaker:**
 
-Dr Jackie Gerstein
+#### **Impacts of the project**
 
-*Gifted Teacher and EdTech Adjunct Faculty, Walden and Western Governors Universities and Santa Fe Public Schools*
+<table style="width: 100%;" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 80px; text-align: center; vertical-align: top;"><br><img src="/images/Photo_Jackie Gerstein.png" alt="jackie" /><br></td>
+<td style="text-align: left; vertical-align: top;"><br>Dr Jackie Gerstein<br></td>
+<td style="text-align: left; vertical-align: top;"><br>Gifted Teacher and EdTech Adjunct Faculty, Walden and Western Governors Universities and Santa Fe Public Schools<br></td>
+</tr>
+</tbody>
+
 
 **Biography:**
 
