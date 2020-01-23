@@ -4,18 +4,6 @@ links:
   - title: About
     url: /about/
   - title: Programme
-    sublinks:
-      - title: Schedule
-        url: /programme/schedule/
-      - title: Keynote Sessions
-        url: /programme/keynote-sessions/
-      - title: Panel Discussion
-        url: /programme/panel-discussion/
-      - title: Sharing Sessions
-        url: /programme/sharing-sessions/
-      - title: Fireside Chat
-        url: /programme/fireside-chat/
-      - title: Exploration Session
-        url: /programme/exploration-session/
+    collection: programme
   - title: FAQ
     url: /faq/
