@@ -15,13 +15,20 @@ Today's students need to be prepared for future careers and workplaces in which 
 
 #### **Keynote Speaker**
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border:none;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 1px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 1px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
   <tr>
-    <th>images/Photo_Jackie Gerstein.png</th>
-    <th rowspan="2">Dr. Jackie Gerstein's byline is, "I don't do teaching for<br>a living. I live teaching as my doing . . . and technology <br>has amplified my passion for doing so." Currently she <br>teaches graduate-level courses for Walden and <br>Western's Governor’s Universities, and gifted <br>education at an elementary public school. Her <br>background includes a strong focus on experiential <br>and adventure learning. She believes that one of <br>the roles and responsibilities of the 21st century education <br>is to share resources, ideas, and instructional <br>strategies with other educators which she did through <br>her recently published book – Learning in the Making.</th>
+    <th class="tg-c3ow">/images/Photo_Jackie Gerstein.png</th>
+    <th class="tg-0pky" rowspan="2">Dr. Jackie Gerstein's byline is, "I don't do teaching for a living. I live teaching as my doing . . . and technology has amplified my passion for doing so." Currently she teaches graduate-level courses for Walden and Western's Governor’s Universities, and gifted education at an elementary public school. Her background includes a strong focus on experiential and adventure learning. She believes that one of the roles and responsibilities of the 21st century education is to share resources, ideas, and instructional strategies with other educators which she did through her recently published book – Learning in the Making.</th>
   </tr>
   <tr>
-    <td>Dr Jackie Gerstein<br>Faculty and Gifted Education Teacher<br>Walden and Western Governors Universities and Santa Fe Public Schools </td>
+    <td class="tg-9wq8">Dr Jackie Gerstein<br>Faculty and Gifted Education Teacher<br>Walden and Western Governors Universities and Santa Fe Public Schools </td>
   </tr>
 </table>
-
