@@ -8,13 +8,13 @@ sections:
     - hero:
         background: /images/hero-banner.png
         key_highlights:
-        - title: KEYNOTE SESSIONS
-          url: /programme/keynote-sessions/
-        - title: PANEL DISCUSSION
-          url: /programme/panel-discussion/
-        - title: SHARING SESSION
-          url: /programme/sharing-sessions/
-        - title: EXPLORATION SESSION
-          url: /programme/exploration-session/
+            - title: KEYNOTE SESSIONS
+              url: /programme/keynote-sessions/
+            - title: PANEL DISCUSSION
+              url: /programme/panel-discussion/
+            - title: SHARING SESSION
+              url: /programme/sharing-sessions/
+            - title: EXPLORATION SESSION
+              url: /programme/exploration-session/
 
 ---
