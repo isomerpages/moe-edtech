@@ -1,10 +1,7 @@
---
-layout: leftnav-page-content
+---
 title: Keynote Session 2
 permalink: /programme/keynote-sessions/keynote-sessions2/
-breadcrumb: Keynote Session 2
-collection_name: keynote-sessions
-second_nav_title: "Keynote Session 2"
+third_nav_title: Keynote Sessions
 ---
 ## Keynote Session 2
 **Title:** 
