@@ -9,7 +9,7 @@ sections:
         background: /images/hero-banner.png
         key_highlights:
             - title: KEYNOTE SESSIONS
-              url: /programme/keynote-sessions/
+              url: /programme/keynote-sessions/keynote-session-1/
             - title: PANEL DISCUSSION
               url: /programme/panel-discussion/
             - title: SHARING SESSION
