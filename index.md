@@ -7,7 +7,7 @@ notification: Registration will commence from 2 Jan 2020 onwards!
 sections:
     - hero:
         background: /images/hero-banner.png
-      key_highlights:
+        key_highlights:
         - title: KEYNOTE SESSIONS
           url: /programme/keynote-sessions/
         - title: PANEL DISCUSSION
