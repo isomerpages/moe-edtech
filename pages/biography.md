@@ -1,4 +1,7 @@
-
+---
+title: Panel Discussion
+permalink: /programme/panel-discussion/
+---
 
 
 <table style="width: 100%;" border="0" cellpadding="10">
