@@ -19,47 +19,47 @@ permalink: /programme/schedule/
     <th class="tg-j844" colspan="3">Welcome Address</th>
   </tr>
   <tr>
-    <td class="tg-bsvn">0910 – 0920hr<br>(10 min)</td>
+    <td class="tg-j844">0910 – 0920hr<br>(10 min)</td>
     <td class="tg-bsvn" colspan="3">Recognition Ceremony</td>
   </tr>
   <tr>
     <td class="tg-j844">0920 – 1050hr<br>(90 min)</td>
-    <td class="tg-j844" colspan="3">Keynote Session 1</td>
+    <td class="tg-bsvn" colspan="3">Keynote Session 1</td>
   </tr>
   <tr>
-    <td class="tg-bsvn">1050 – 1120hr<br>(30 min)</td>
+    <td class="tg-j844">1050 – 1120hr<br>(30 min)</td>
     <td class="tg-bsvn" colspan="2">Tea Break</td>
     <td class="tg-ucan" rowspan="3">Exploration Session</td>
   </tr>
   <tr>
     <td class="tg-gaoc">1120 – 1220hr<br>(60 min)</td>
-    <td class="tg-gaoc">Sharing Session 1</td>
+    <td class="tg-et71">Sharing Session 1</td>
     <td class="tg-gaoc">Sharing Session 2</td>
   </tr>
   <tr>
-    <td class="tg-et71">1220 – 1320hr<br>(60 min)</td>
+    <td class="tg-gaoc">1220 – 1320hr<br>(60 min)</td>
     <td class="tg-et71" colspan="2">Network Lunch</td>
   </tr>
   <tr>
     <td class="tg-gaoc">1320 – 1420hr<br>(60 min)</td>
-    <td class="tg-gaoc" colspan="3">Keynote Session 2</td>
+    <td class="tg-et71" colspan="3">Keynote Session 2</td>
   </tr>
   <tr>
-    <td class="tg-et71">1420 – 1520hr<br>(60 min)</td>
+    <td class="tg-gaoc">1420 – 1520hr<br>(60 min)</td>
     <td class="tg-et71">Fireside Chat</td>
-    <td class="tg-et71">Sharing Session 3</td>
+    <td class="tg-gaoc">Sharing Session 3</td>
     <td class="tg-v9re" rowspan="3">Exploration Session</td>
   </tr>
   <tr>
     <td class="tg-gaoc">1520 – 1550hr<br>(30 min)</td>
-    <td class="tg-gaoc" colspan="2">Tea Break</td>
+    <td class="tg-et71" colspan="2">Tea Break</td>
   </tr>
   <tr>
-    <td class="tg-et71">1550 – 1650hr<br>(60 min)</td>
+    <td class="tg-gaoc">1550 – 1650hr<br>(60 min)</td>
     <td class="tg-et71" colspan="2">Panel Discussion</td>
   </tr>
   <tr>
     <td class="tg-gaoc">1650 – 1700hr<br>(10 min)</td>
-    <td class="tg-gaoc" colspan="3">Closing Address</td>
+    <td class="tg-et71" colspan="3">Closing Address</td>
   </tr>
 </table>
