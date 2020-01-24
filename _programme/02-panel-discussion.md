@@ -35,7 +35,7 @@ Student-Centred Learning<br></td>
 </tr>
 <tr>
 <td><br><img src="/images/Aaron Loh Photo.png" alt="Aaron Loh" /><br></td>
-<td><br><strong>Aaron Loh</strong><br />Mayor<br />Divisional Director<br />Educational Technology Division<br />MOE<br></td>
+<td><br><strong>Aaron Loh</strong><br />Divisional Director<br />Educational Technology Division<br />MOE<br></td>
 </tr>
 <tr>
 <td><br><img src="/images/Adrian Lim Photo.JPG" alt="Adrian Lim" /><br></td>
