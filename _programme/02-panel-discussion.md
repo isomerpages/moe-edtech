@@ -29,21 +29,20 @@ As the movement continues to grow and evolve, one of the biggest questions that 
 Student-Centred Learning<br></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/helen-clark.png" alt="Helen Clark" /><br></td>
-<td><br><strong>Ms Helen Clark</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand<br><a href="/about/prize-jury/prize-council/helen-clark/">Biography</a></td>
+<td><br><img src="/images/Photo_Stephanie Passman.jpg" alt="Stephanie Passman" /><br></td>
+<td><br><strong>Stephanie Passman</strong><br />Head Teacher<br />Albemarle County Public Schools:<br />Laboratory Schools for 
+Student-Centred Learning<br></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/park-won-soon.png" alt="Park Won-soon" /><br></td>
-<td><br><strong>Mr Park Won-soon</strong><br />Mayor<br />Seoul<br />Republic of Korea<br><a href="/about/prize-jury/prize-council/park-won-soon/">Biography</a></td>
+<td><br><img src="/images/Aaron Loh Photo.png" alt="Aaron Loh" /><br></td>
+<td><br><strong>Aaron Loh</strong><br />Mayor<br />Divisional Director<br />Educational Technology Division<<br />MOE<br></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /><br></td>
-<td><br><strong>Mr Ilmar Reepalu</strong><br />Vice President<br />Swedish Association of Local Authorities and Regions<br />Sweden<br><a href="/about/prize-jury/prize-council/ilmar-reepalu/">Biography</a></td>
+<td><br><img src="/images/Adrian Lim Photo.JPG" alt="Adrian Lim" /><br></td>
+<td><br><strong>Adrian Lim</strong><br />Director<br />Digital Participation and Foresight Division (Digital Readiness Cluster)<br />IMDA<br></td>
 </tr> 
 </tbody>
 </table>
-
-
 
 
 For more information on the panellists, refer to Annex A.
