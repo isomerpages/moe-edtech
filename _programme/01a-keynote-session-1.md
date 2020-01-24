@@ -15,6 +15,15 @@ Today's students need to be prepared for future careers and workplaces in which 
 
 #### **Keynote Speaker**
 
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
+<tr>
+<td style="width: 150px;"><img src="/images/Photo_Jackie Gerstein.png" alt="Jackie Gerstein" /></td>
+<td><strong>Dr Jackie Gerstein</strong><br />Faculty and Gifted Education Teacher<br />Walden and Western Governors Universities and<br />Santa Fe Public Schools<br></td>
+</tr>
+</tbody>
+</table>
+
 ![Jackie Gersten](/images/Photo_Jackie Gerstein.png/)*Dr Jackie Gerstein  Faculty and Gifted Education Teacher
 Walden and Western Governors Universities and Santa Fe Public Schools*
 
