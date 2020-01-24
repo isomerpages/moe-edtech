@@ -2,7 +2,7 @@
 title: Sharing Sessions
 permalink: /programme/sharing-sessions/
 ---
-**The presentations provide opportunities for sharing good practices in designing maker-centred learning experiences amongst like-minded practitioners.**
+The presentations provide opportunities for sharing good practices in designing maker-centred learning experiences amongst like-minded practitioners.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
