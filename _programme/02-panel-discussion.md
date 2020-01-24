@@ -15,12 +15,35 @@ There has been a rise in the Maker Movement worldwide in recent years where peop
 As the movement continues to grow and evolve, one of the biggest questions that schools and educators have in mind - how is making and its role in Education going to play out in the future? With the shift of society towards equity and inclusivity, the panel will share their views on how Making can help to build a more inclusive classroom culture. The panel members will also provide insightful perspectives on how educators can better prepare themselves to facilitate making discussions and activities to guide their students as well as the potential challenges that might arise in the process. 
 
 
-| Panellists        | Designation                                                                                                |   |
-|-------------------|------------------------------------------------------------------------------------------------------------|---|
-| Jackie Gerstein   | Faculty and Gifted Education Teacher,Walden and Western Governors Universities and Santa Fe Public Schools |   |
-| Chad Ratliff      | Principal, Albemarle County Public Schools: Laboratory Schools for Student-Centred Learning                |   |
-| Stephanie Passman | Head Teacher, Albemarle County Public Schools: Laboratory Schools for Student-Centred Learning             |   |
-| Aaron Loh         | Divisional Director, Educational Technology Division, MOE                                                  |   |
-| Adrian Lim        | Director, Digital Participation and Foresight Division (Digital Readiness Cluster), IMDA                   |   |
+#### **Panellists**
+
+<table style="width: 100%;" border="0" cellpadding="10">
+<tbody>
+<tr>
+<td style="width: 150px;"><img src="/images/Photo_Jackie Gerstein.png" alt="Jackie Gerstein" /><br></td>
+<td><strong>Jackie Gerstein</strong><br />Faculty and Gifted Teacher<br />Walden and Western Governors Universities<br />and Santa Fe Public Schools<br></td>
+</tr>
+<tr>
+<td><br><img src="/images/Photo_Chad Ratliff.jpg" alt="Chad Ratliff" /><br></td>
+<td><br><strong>Chad Ratliff</strong><br />Principal<br />Albemarle County Public Schools:<br />Laboratory Schools for 
+Student-Centred Learning<br></td>
+</tr>
+<tr>
+<td><br><img src="/images/jury/helen-clark.png" alt="Helen Clark" /><br></td>
+<td><br><strong>Ms Helen Clark</strong><br />Former Administrator<br />United Nations Development Programme<br />New Zealand<br><a href="/about/prize-jury/prize-council/helen-clark/">Biography</a></td>
+</tr>
+<tr>
+<td><br><img src="/images/jury/park-won-soon.png" alt="Park Won-soon" /><br></td>
+<td><br><strong>Mr Park Won-soon</strong><br />Mayor<br />Seoul<br />Republic of Korea<br><a href="/about/prize-jury/prize-council/park-won-soon/">Biography</a></td>
+</tr>
+<tr>
+<td><br><img src="/images/jury/ilmar-reepalu.png" alt="Ilmar Reepalu" /><br></td>
+<td><br><strong>Mr Ilmar Reepalu</strong><br />Vice President<br />Swedish Association of Local Authorities and Regions<br />Sweden<br><a href="/about/prize-jury/prize-council/ilmar-reepalu/">Biography</a></td>
+</tr> 
+</tbody>
+</table>
+
+
+
 
 For more information on the panellists, refer to Annex A.
