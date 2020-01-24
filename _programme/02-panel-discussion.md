@@ -45,4 +45,4 @@ Student-Centred Learning<br></td>
 </table>
 
 
-For more information on the panellists, refer to [Biography](pages/biography.md). 
+For more information on the panellists, refer to [Biography](/pages/biography.md). 
