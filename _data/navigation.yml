@@ -1,15 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
+logo: /images/logo.png
 
-logo: /images/isomer-logo.svg
-
+          
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Who We Are
-    collection: who-we-are
-  - title: What We Do
-    collection: what-we-do
+  - title: About
+    url: /about/
+  - title: Programme
+    collection: programme
+  - title: FAQ
+    url: /faq/

@@ -1,11 +1,9 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+title: MakerConnect 2020
+url: https://www.edtech.moe.edu.sg
+favicon: /images/favicon.png
 
 collections:
-  who-we-are:
-    output: true
-  what-we-do:
+  programme:
     output: true
 
 ##################################################################################################################
@@ -32,4 +30,3 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 description: test test
-
