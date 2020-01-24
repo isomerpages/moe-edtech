@@ -15,8 +15,8 @@ permalink: /programme/schedule/
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-j844">0900 – 0910hr<br>(10 min)</th>
-    <th class="tg-j844" colspan="3">Welcome Address</th>
+    <td class="tg-j844">0900 – 0910hr<br>(10 min)</td>
+    <td class="tg-j844" colspan="3">Welcome Address</td>
   </tr>
   <tr>
     <td class="tg-j844">0910 – 0920hr<br>(10 min)</td>
