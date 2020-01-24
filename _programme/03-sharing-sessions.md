@@ -5,17 +5,19 @@ permalink: /programme/sharing-sessions/
 **The presentations provide opportunities for sharing good practices in designing maker-centred learning experiences amongst like-minded practitioners.**
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#aaa;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aaa;color:#fff;background-color:#f38630;}
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-nrix">Sharing Session</th>
-    <th class="tg-baqh">School</th>
-    <th class="tg-nrix">Sharing Focus</th>
+    <th class="tg-wa1i">Sharing Session</th>
+    <th class="tg-amwm">School</th>
+    <th class="tg-wa1i">Sharing Focus</th>
   </tr>
   <tr>
     <td class="tg-nrix">1</td>
