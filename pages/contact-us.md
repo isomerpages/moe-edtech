@@ -1,7 +1,7 @@
 ---
 layout: contact_us
 title: Contact Us
-permalink: /contact-us/
+permalink: /pages/contact-us/
 agency_name: 
 
 ##**MakerConnect 2020 Organising Committee**
