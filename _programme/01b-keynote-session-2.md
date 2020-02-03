@@ -1,6 +1,6 @@
 ---
 title: Keynote Session 2
-permalink: /programme/keynote-sessions/keynote-sessions2/
+permalink: /programme/keynote-sessions/keynote-session-2/
 third_nav_title: Keynote Sessions
 ---
 
