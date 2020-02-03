@@ -30,17 +30,17 @@ permalink: /programme/schedule/
   </tr>
   <tr>
     <td class="tg-xnia">0920 – 1050hr (90 min)</td>
-    <td class="tg-kitr" colspan="3">Keynote Session 1</td>
+    <td class="tg-kitr" colspan="3"><a href="https://www.edtech.moe.edu.sg/programme/keynote-sessions/keynote-session-1/">Keynote Session 1</a></td>
   </tr>
   <tr>
     <td class="tg-xnia">1050 – 1120hr (30 min)</td>
     <td class="tg-ubxv" colspan="2">Tea Break</td>
-    <td class="tg-ic6g" rowspan="3">Exploration Session</td>
+    <td class="tg-ic6g" rowspan="3"><a href="https://www.edtech.moe.edu.sg/programme/exploration-session/">Exploration Session</a></td>
   </tr>
   <tr>
     <td class="tg-xnia">1120 – 1220hr (60 min)</td>
-    <td class="tg-mk2z">Sharing Session 1</td>
-    <td class="tg-8337">Sharing Session 2</td>
+    <td class="tg-mk2z"><a href="https://www.edtech.moe.edu.sg/programme/sharing-sessions/">Sharing Session 1</a></td>
+    <td class="tg-8337"><a href="https://www.edtech.moe.edu.sg/programme/sharing-sessions/">Sharing Session 2</a></td>
   </tr>
   <tr>
     <td class="tg-xnia">1220 – 1320hr (60 min)</td>
@@ -48,13 +48,13 @@ permalink: /programme/schedule/
   </tr>
   <tr>
     <td class="tg-xnia">1320 – 1420hr (60 min)</td>
-    <td class="tg-kitr" colspan="3">Keynote Session 2</td>
+    <td class="tg-kitr" colspan="3"><a href="https://www.edtech.moe.edu.sg/programme/keynote-sessions/keynote-session-2/">Keynote Session 2</a></td>
   </tr>
   <tr>
     <td class="tg-xnia">1420 – 1520hr (60 min)</td>
-    <td class="tg-z36p">Fireside Chat</td>
-    <td class="tg-8337">Sharing Session 3</td>
-    <td class="tg-ic6g" rowspan="2">Exploration Session</td>
+    <td class="tg-z36p"><a href="https://www.edtech.moe.edu.sg/programme/fireside-chat/">Fireside Chat</a></td>
+    <td class="tg-8337"><a href="https://www.edtech.moe.edu.sg/programme/sharing-sessions/">Sharing Session 3</a></td>
+    <td class="tg-ic6g" rowspan="2"><a href="https://www.edtech.moe.edu.sg/programme/exploration-session/">Exploration Session</a></td>
   </tr>
   <tr>
     <td class="tg-xnia">1520 – 1550hr (30 min)</td>
@@ -62,7 +62,7 @@ permalink: /programme/schedule/
   </tr>
   <tr>
     <td class="tg-lf36">1550 – 1650hr (60 min)</td>
-    <td class="tg-ujvv" colspan="3">Panel Discussion</td>
+    <td class="tg-ujvv" colspan="3"><a href="https://www.edtech.moe.edu.sg/programme/panel-discussion/">Panel Discussion</a></td>
   </tr>
   <tr>
     <td class="tg-lf36">1650 – 1700hr (10 min)</td>
