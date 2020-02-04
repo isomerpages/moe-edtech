@@ -16,12 +16,12 @@ These exploration session consists of learning spaces where participants can lea
 <table class="tg">
   <tr>
     <th class="tg-fymr">Vendor</th>
-    <th class="tg-fymr">Title of session edited from submitted proposal<br></th>
-    <th class="tg-fymr">Synopsis edited from submitted proposal</th>
+    <th class="tg-fymr">Title of session<br></th>
+    <th class="tg-fymr">Synopsis</th>
   </tr>
   <tr>
     <td class="tg-0pky">Lionsforge Pte Ltd</td>
-    <td class="tg-0pky">Digital Fabrication with,Laser Cutter!</td>
+    <td class="tg-0pky">Digital Fabrication with Laser Cutter!</td>
     <td class="tg-0pky">Keen to learn about the design considerations when designing a product for laser cutting? Join Lionsforge to get a chance to design, laser cut and assemble your very own 3D artefacts!<br></td>
   </tr>
   <tr>
