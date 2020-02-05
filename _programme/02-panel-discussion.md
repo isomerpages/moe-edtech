@@ -4,13 +4,13 @@ permalink: /programme/panel-discussion/
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{font-family:Arial, sans-serif;font-size:24px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:24px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-a4wa{font-size:14px;border-color:inherit;text-align:left;vertical-align:middle}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-82x5{font-size:24px;border-color:inherit;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-a4wa">The panel discussion provides an opportunity for event participants to hear from international and local panellists. This would allow participants to connect with international and local thought leaders to appreciate emerging practices and cultures in Maker Education. Participants will be invited to actively participate in the conversation through a Q&amp;A session.<br></td>
+    <td class="tg-82x5">The panel discussion provides an opportunity for event participants to hear from international and local panellists. This would allow participants to connect with international and local thought leaders to appreciate emerging practices and cultures in Maker Education. Participants will be invited to actively participate in the conversation through a Q&amp;A session.<br></td>
   </tr>
 </table>
 
