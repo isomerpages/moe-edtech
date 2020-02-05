@@ -14,24 +14,25 @@ permalink: /programme/panel-discussion/
   </tr>
 </table>
 
+
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg  {border-collapse:collapse;border-spacing:0;border:none;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg .tg-qbwe{font-size:26px;font-family:Impact, Charcoal, sans-serif !important;;text-align:left;vertical-align:top}
 .tg .tg-cyim{font-size:22px;text-align:left;vertical-align:top}
-.tg .tg-tc62{font-size:26px;text-align:left;vertical-align:middle}
-.tg .tg-84g4{font-size:24px;text-align:left;vertical-align:top}
+.tg .tg-kd7i{font-size:26px;font-family:Impact, Charcoal, sans-serif !important;;text-align:left;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <td class="tg-tc62"><span style="font-weight:bold">Title</span></td>
+    <td class="tg-kd7i"><span style="font-weight:bold">Title</span></td>
   </tr>
   <tr>
     <td class="tg-cyim">Future of Maker Education</td>
   </tr>
   <tr>
-    <td class="tg-84g4"><span style="font-weight:bold">Synopsis</span></td>
+    <td class="tg-qbwe"><span style="font-weight:bold">Synopsis</span></td>
   </tr>
   <tr>
     <td class="tg-cyim">There has been a rise in the Maker Movement worldwide in recent years where people are designing and creating customised, innovative and new things with the use of technologies. This movement has also inspired schools to embark on their own making journey, encouraged by the learning that students can take away from the making process. Across different schools, their making journey or programme may manifest in various forms ranging from interest-based to more formal curriculum activities.</td>
