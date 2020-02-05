@@ -2,7 +2,11 @@
 title: Panel Discussion
 permalink: /programme/panel-discussion/
 ---
-The panel discussion provides an opportunity for event participants to hear from international and local panellists. This would allow participants to connect with international and local thought leaders to appreciate emerging practices and cultures in Maker Education. Participants will be invited to actively participate in the conversation through a Q&A session. 
+\begin{table}[]
+\begin{tabular}{l}
+The panel discussion provides an opportunity for event participants to hear from international and local panellists. This would allow participants to connect with international and local thought leaders to appreciate emerging practices and cultures in Maker Education. Participants will be invited to actively participate in the conversation through a Q\&A session.
+\end{tabular}
+\end{table}
 
 **Title:** 
 
