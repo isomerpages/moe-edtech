@@ -3,47 +3,16 @@ title: Panel Discussion
 permalink: /programme/panel-discussion/
 ---
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-kghl{font-size:22px;border-color:inherit;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-  <tr>
-    <td class="tg-kghl">The panel discussion provides an opportunity for event participants to hear from international and local panellists. This would allow participants to connect with international and local thought leaders to appreciate emerging practices and cultures in Maker Education. Participants will be invited to actively participate in the conversation through a Q&amp;A session.<br></td>
-  </tr>
-</table>
-
-<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border:none;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.tg .tg-qbwe{font-size:26px;font-family:Impact, Charcoal, sans-serif !important;;text-align:left;vertical-align:top}
-.tg .tg-cyim{font-size:22px;text-align:left;vertical-align:top}
 .tg .tg-kd7i{font-size:26px;font-family:Impact, Charcoal, sans-serif !important;;text-align:left;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
     <td class="tg-kd7i"><span style="font-weight:bold">Title</span></td>
   </tr>
-  <tr>
-    <td class="tg-cyim">Future of Maker Education</td>
-  </tr>
-  <tr>
-    <td class="tg-qbwe"><span style="font-weight:bold">Synopsis</span></td>
-  </tr>
-  <tr>
-    <td class="tg-cyim">There has been a rise in the Maker Movement worldwide in recent years where people are designing and creating customised, innovative and new things with the use of technologies. This movement has also inspired schools to embark on their own making journey, encouraged by the learning that students can take away from the making process. Across different schools, their making journey or programme may manifest in various forms ranging from interest-based to more formal curriculum activities.</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-cyim">As the movement continues to grow and evolve, one of the biggest questions that schools and educators have in mind - how is making and its role in Education going to play out in the future? With the shift of society towards equity and inclusivity, the panel will share their views on how Making can help to build a more inclusive classroom culture. The panel members will also provide insightful perspectives on how educators can better prepare themselves to facilitate making discussions and activities to guide their students as well as the potential challenges that might arise in the process.</td>
-  </tr>
 </table>
-
 
 #### **Panellists**
 
