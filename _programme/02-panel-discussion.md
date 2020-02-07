@@ -2,7 +2,7 @@
 title: Panel Discussion
 permalink: /programme/panel-discussion/
 ---
-#### **Title**
+#### Title
 Future of Maker Education
 
 #### **Synopsis**
