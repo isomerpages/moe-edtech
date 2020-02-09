@@ -1,6 +1,6 @@
 ---
 title: Sharing Sessions
-permalink: /programme/sharing-sessions/
+permalink: /programme/sharing-sessions-1/
 ---
 The presentations provide opportunities for sharing good practices in designing maker-centred learning experiences amongst like-minded practitioners.
 
