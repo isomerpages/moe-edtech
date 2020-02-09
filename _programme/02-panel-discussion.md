@@ -15,6 +15,7 @@ As the movement continues to grow and evolve, one of the biggest questions that 
 <table style="width: 100%;" border="0" cellpadding="10"><tbody><tr><td style="width: 150px;"><a href="https://www.edtech.moe.edu.sg/pages/biography/"><img src="/images/Photo_Jackie Gerstein.png" alt="Jackie Gerstein" /><br></td>
 <td><strong>Jackie Gerstein</strong><br />Faculty and Gifted Teacher<br />Walden and Western Governors Universities<br />and Santa Fe Public Schools<br></td>
 </tr>
+</tr>
 <td><br><img src="/images/Photo_Chad Ratliff.jpg" alt="Chad Ratliff" /><br></td>
 <td><br><strong>Chad Ratliff</strong><br />Principal<br />Albemarle County Public Schools:<br />Laboratory Schools for 
 Student-Centred Learning<br></td>
