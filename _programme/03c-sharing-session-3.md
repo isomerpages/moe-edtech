@@ -1,6 +1,7 @@
 ---
 title: Sharing Sessions
-permalink: /programme/sharing-sessions-3/
+permalink: /programme/sharing-sessions/sharing-session-3/
+third_nav_title: Sharing Sessions
 ---
 
 #### Commonwealth Secondary School
