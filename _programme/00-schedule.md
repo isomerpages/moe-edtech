@@ -43,8 +43,8 @@ permalink: /programme/schedule/
   </tr>
   <tr>
     <td class="tg-lf36">1120 – 1220hr (60 min)</td>
-    <td class="tg-iawb"><a href="https://www.edtech.moe.edu.sg/programme/sharing-sessions/">Sharing Session 1</a></td>
-    <td class="tg-inq5"><a href="https://www.edtech.moe.edu.sg/programme/sharing-sessions/">Sharing Session 2</a></td>
+    <td class="tg-iawb"><a href="https://www.edtech.moe.edu.sg/programme/sharing-session-1/">Sharing Session 1</a></td>
+    <td class="tg-inq5"><a href="https://www.edtech.moe.edu.sg/programme/sharing-session-2/">Sharing Session 2</a></td>
   </tr>
   <tr>
     <td class="tg-lf36">1220 – 1320hr (60 min)</td>
@@ -57,7 +57,7 @@ permalink: /programme/schedule/
   <tr>
     <td class="tg-lf36">1420 – 1520hr (60 min)</td>
     <td class="tg-un4x"><a href="https://www.edtech.moe.edu.sg/programme/fireside-chat/">Fireside Chat</a></td>
-    <td class="tg-inq5"><a href="https://www.edtech.moe.edu.sg/programme/sharing-sessions/">Sharing Session 3</a></td>
+    <td class="tg-inq5"><a href="https://www.edtech.moe.edu.sg/programme/sharing-session-3/">Sharing Session 3</a></td>
     <td class="tg-ujmu" rowspan="2"><a href="https://www.edtech.moe.edu.sg/programme/exploration-session/">Exploration Session</a></td>
   </tr>
   <tr>
