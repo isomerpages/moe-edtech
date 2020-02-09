@@ -1,5 +1,5 @@
 ---
-title: Sharing Sessions
+title: Sharing Session 2
 permalink: /programme/sharing-sessions/sharing-session-2/
 third_nav_title: Sharing Sessions
 ---
