@@ -16,7 +16,7 @@ As the movement continues to grow and evolve, one of the biggest questions that 
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/Photo_Jackie Gerstein.png" alt="Jackie Gerstein" /><br></td>
-<td><a href="https://www.edtech.moe.edu.sg/pages/biography/"><strong>Jackie Gerstein</strong><br />Faculty and Gifted Teacher<br />Walden and Western Governors Universities<br />and Santa Fe Public Schools<br></td>
+<td><strong>Jackie Gerstein</strong><a href="https://www.edtech.moe.edu.sg/pages/biography/"><br />Faculty and Gifted Teacher<br />Walden and Western Governors Universities<br />and Santa Fe Public Schools<br></td>
 </tr>
 <tr>
 <td><br><img src="/images/Photo_Chad Ratliff.jpg" alt="Chad Ratliff" /><br></td>
