@@ -19,20 +19,20 @@ As the movement continues to grow and evolve, one of the biggest questions that 
 <td><strong>Jackie Gerstein</strong><br />Faculty and Gifted Teacher<br />Walden and Western <br />Governors Universities<br />and Santa Fe Public Schools<br><a href="https://www.edtech.moe.edu.sg/pages/biography/">Biography</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/lim-eng-hwee.png" alt="Lim Eng Hwee" /><br></td>
-<td><br><strong>Mr Lim Eng Hwee</strong><br />Chief Executive Officer<br />Urban Redevelopment Authority<br />Singapore<br><a href="/about/prize-jury/nominating-committee/lim-eng-hwee/">Biography</a></td>
+<td><br><img src="/images/Photo_Chad Ratliff.jpg" alt="Chad Ratliff" /><br></td>
+<td><br><strong>Chad Ratliff</strong><br />Principal<br />Albemarle County Public Schools:<br />Laboratory Schools for Student-Centred Learning<br><a href="https://www.edtech.moe.edu.sg/pages/biography/">Biography</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/chris-luebkeman.png" alt="Chris Luebkeman" /><br></td>
-<td><br><strong>Dr Chris Luebkeman</strong><br />Director<br />Global Foresight, Research and Innovation, ARUP<br />USA<br><a href="/about/prize-jury/nominating-committee/chris-luebkeman/">Biography</a></td>
+<td><br><img src="/images/Photo_Stephanie Passman.jpg" alt="Stephanie Passman" /><br></td>
+<td><br><strong>Stephanie Passman</strong><br />Head Teacher<br />Albemarle County Public Schools:<br />Laboratory Schools for Student-Centred Learning<br><a href="https://www.edtech.moe.edu.sg/pages/biography/">Biography</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/marilyn-taylor.png" alt="Marilyn Taylor" /><br></td>
-<td><br><strong>Prof Marilyn Jordan Taylor</strong><br />Professor, Former Dean<br />School of Design, University of Pennsylvania<br />USA<br><a href="/about/prize-jury/nominating-committee/marilyn-taylor/">Biography</a></td>
+<td><br><img src="/images/Aaron Loh Photo.png" alt="Aaron Loh" /><br></td>
+<td><br><strong>Aaron Loh</strong><br />Divisional Director<br />Educational Technology Division<br />MOE<br><a href="https://www.edtech.moe.edu.sg/pages/biography/">Biography</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/jury/wong-mun-summ.png" alt="Wong Mun Summ" /><br></td>
-<td><br><strong>Mr Wong Mun Summ</strong><br />Director<br />WOHA Architects<br />Singapore<br><a href="/about/prize-jury/nominating-committee/wong-mun-summ/">Biography</a></td>
+<td><br><img src="/images/Adrian Lim Photo.JPG" alt="Adrian Lim" /><br></td>
+<td><br><strong>Adrian Lim</strong><br />Director<br />Digital Participation and Foresight Division<br />(Digital Readiness Cluster)<br />IMDA<br><a href="https://www.edtech.moe.edu.sg/pages/biography/">Biography</a></td>
 </tr>
 </tbody>
 </table>
