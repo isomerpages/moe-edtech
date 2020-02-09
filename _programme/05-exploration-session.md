@@ -3,7 +3,6 @@ title: Exploration Session
 permalink: /programme/exploration-session/
 ---
 
-These exploration session consists of learning spaces where participants can learn by doing, immersing themselves in a range of Making activities.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
