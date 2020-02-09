@@ -19,7 +19,7 @@ permalink: /programme/schedule/
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 557px">
 <colgroup>
-<col style="width: 172px">
+<col style="width: 150px">
 <col style="width: 135px">
 <col style="width: 135px">
 <col style="width: 135px">
