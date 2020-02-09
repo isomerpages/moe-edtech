@@ -1,6 +1,7 @@
 ---
 title: Sharing Sessions
-permalink: /programme/sharing-sessions-2/
+permalink: /programme/sharing-sessions/sharing-session-2/
+third_nav_title: Sharing Sessions
 ---
 
 #### Pei Hwa Secondary School
