@@ -18,7 +18,7 @@ For maker education to take root in sustainable and meaningful ways, assessments
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
-<td style="width: 150px;"><img src="/images/Photo_Chad Ratliff.jpg" alt="Chad Ratliff" /></td>
+<td style="width: 150px;"><img src="/images/Photo_Chad Ratliff.jpg" alt="Chad Ratliff" />
 <td><strong>Chad Ratliff</strong><br />Principal<br />Albemarle County Public Schools:  <br />Laboratory Schools for Student-Centred Learning<br><a href="https://www.edtech.moe.edu.sg/pages/biography/">Biography</a></td></td>
 </tr>
 </tbody>
