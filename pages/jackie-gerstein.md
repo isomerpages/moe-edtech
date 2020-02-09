@@ -1,6 +1,6 @@
 ---
 title: Biography - Jackie Gerstein
-permalink: /programme/jackie-gerstein
+permalink: /programme/keynote-sessions/keynote-session-1/jackie-gerstein
 ---
 
 <div style="width:150px"><img src="/images/Photo_Jackie Gerstein.png" alt="Jackie Gerstein" /></div>
