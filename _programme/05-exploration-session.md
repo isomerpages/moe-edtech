@@ -56,4 +56,4 @@ These exploration session consists of learning spaces where participants can lea
     <td class="tg-0pky">Robots Everywhere!</td>
     <td class="tg-0pky">Keen to explore the use of educational robotics platforms in your school? Join Tinkertanker to explore the various different robotics platforms through hands-on activities to find out more!</td>
   </tr>
-</table>
+  <tr>
