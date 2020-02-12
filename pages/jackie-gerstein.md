@@ -1,6 +1,6 @@
 ---
 title: Biography - Jackie Gerstein
-permalink: /pages/jackie-gerstein/
+permalink: /jackie-gerstein/
 ---
 
 <div style="width:150px"><img src="/images/Photo_Jackie Gerstein.png" alt="Jackie Gerstein" /></div>
