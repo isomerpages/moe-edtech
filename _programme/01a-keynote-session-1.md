@@ -18,7 +18,7 @@ Today's students need to be prepared for future careers and workplaces in which 
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/Photo_Jackie Gerstein.png" alt="Jackie Gerstein" /></td>
-<td><strong>Dr Jackie Gerstein</strong><br />Faculty and Gifted Education Teacher<br />Walden and Western Governors Universities <br />and Santa Fe Public Schools<br><a href="/pages/jackie-gerstein.md" />Biography</a></td>
+<td><strong>Dr Jackie Gerstein</strong><br />Faculty and Gifted Education Teacher<br />Walden and Western Governors Universities <br />and Santa Fe Public Schools<br><a href="/pages/jackie-gerstein.md"/>Biography</a></td>
 </tr>
 </tbody>
 </table>
