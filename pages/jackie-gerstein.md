@@ -1,8 +1,8 @@
 ---
 title: Biography - Jackie Gerstein
-permalink: /jackie-gerstein/
+permalink: /programme/keynote-sessions/jackie-gerstein/
 ---
-
+permalink: /about/prize-jury/prize-council/helen-clark/
 <div style="width:150px"><img src="/images/Photo_Jackie Gerstein.png" alt="Jackie Gerstein" /></div>
 
 **Jackie Gerstein**<br>
