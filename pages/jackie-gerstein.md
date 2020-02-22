@@ -6,8 +6,9 @@ permalink: /programme/keynote-sessions-1/jackie-gerstein/
 <div style="width:150px"><img src="/images/Photo_Jackie Gerstein.png" alt="Jackie Gerstein" /></div>
 
 **Jackie Gerstein**<br>
-Faculty and Gifted Teacher
-Walden and Western Governors Universities and Sante Fe Public School
+Faculty and Gifted Teacher<br>
+Walden and Western Governors Universities<br> 
+and Sante Fe Public School
 
 ---
 
