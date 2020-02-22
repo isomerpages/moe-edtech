@@ -1,6 +1,6 @@
 ---
 title: Biography - Chad Ratliff 
-permalink: /programme/keynote-sessions-2/chad-ratliff/
+permalink: /programme/keynote-sessions-2/panel-discussion/chad-ratliff/
 ---
 
 <div style="width:150px"><img src="/images/Photo_Chad Ratliff.jpg" alt="Chad Ratliff" /></div>
