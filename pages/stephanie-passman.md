@@ -1,6 +1,6 @@
 ---
 title: Biography - Stephanie Passman
-permalink: /programme/keynote-sessions-2/stephanie-passman/
+permalink: /programme/keynote-sessions-2/pabel-discussion/stephanie-passman/
 ---
 
 <div style="width:150px"><img src="/images/Photo_Stephanie Passman.jpg" alt="Jackie Gerstein" /></div>
