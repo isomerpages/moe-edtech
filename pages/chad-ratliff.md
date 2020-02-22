@@ -3,7 +3,7 @@ title: Biography - Chad Ratliff
 permalink: /programme/keynote-sessions-2/chad-ratliff/
 ---
 
-<div style="width:150px"><img src="/images/Photo_Jackie Gerstein.png" alt="Jackie Gerstein" /></div>
+<div style="width:150px"><img src="/images/Photo_Chad Ratliff.jpg" alt="Chad Ratliff" /></div>
 
 **Chad Ratliff**<br>
 Principal<br>
