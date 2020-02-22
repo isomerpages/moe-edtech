@@ -29,7 +29,7 @@ For maker education to take root in sustainable and meaningful ways, assessments
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/Photo_Stephanie Passman.jpg" alt="Stephanie Passman" /></td>
-<td><strong>Stephanie Passman</strong><br />Head Teacher<br />Albemarle County Public Schools: <br />Laboratory Schools for Student-Centred Learning<br><a href="https://moe-edtech-staging.netlify.com//programme/keynote-sessions-2/chad-ratliff/">Biography</a></td>
+<td><strong>Stephanie Passman</strong><br />Head Teacher<br />Albemarle County Public Schools: <br />Laboratory Schools for Student-Centred Learning<br><a href="https://moe-edtech-staging.netlify.com//programme/keynote-sessions-2/stephanie-passman/">Biography</a></td>
 </tr>
 </tbody>
 </table>
