@@ -9,6 +9,7 @@ permalink: /programme/panel-discussion/adrian-lim/
 Director<br>
 Digital Participation and Foresight Division,<br> 
 Infocomm Media Development Authority
+
 ---
 
 **Adrian** is Director of the Digital Literacy and Participation Division and Director of Innovation at the Infocomm Media Development Authority of Singapore (IMDA). He is also the Executive Director of the Media Literacy Council in Singapore.<br> 
