@@ -3,7 +3,7 @@ title: Biography - Stephanie Passman
 permalink: /programme/keynote-sessions-2/stephanie-passman/
 ---
 
-<div style="width:150px"><img src="/images/Photo_Jackie Gerstein.png" alt="Jackie Gerstein" /></div>
+<div style="width:150px"><img src="/images/Photo_Stephanie Passman.jpg" alt="Jackie Gerstein" /></div>
 
 **Stephanie Passman**<br>
 Head Teacher<br>
