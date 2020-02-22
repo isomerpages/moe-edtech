@@ -16,15 +16,15 @@ As the movement continues to grow and evolve, one of the biggest questions that 
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/Photo_Jackie Gerstein.png" alt="Jackie Gerstein" /><br></td>
-<td><strong>Jackie Gerstein</strong><br />Faculty and Gifted Teacher<br />Walden and Western <br />Governors Universities<br />and Santa Fe Public Schools<br><a href="https://moe-edtech-staging.netlify.com//programme/panel-discussion/jackie-gerstein/">Biography</a></td>
+<td><strong>Jackie Gerstein</strong><br />Faculty and Gifted Teacher<br />Walden and Western <br />Governors Universities<br />and Santa Fe Public Schools<br><a href="https://moe-edtech-staging.netlify.com//programme/keynote-sessions-1/panel-discussion/jackie-gerstein/">Biography</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/Photo_Chad Ratliff.jpg" alt="Chad Ratliff" /><br></td>
-<td><br><strong>Chad Ratliff</strong><br />Principal<br />Albemarle County Public Schools:<br />Laboratory Schools for Student-Centred Learning<br><a href="https://moe-edtech-staging.netlify.com//programme/panel-discussion/chad-ratliff/">Biography</a></td>
+<td><br><strong>Chad Ratliff</strong><br />Principal<br />Albemarle County Public Schools:<br />Laboratory Schools for Student-Centred Learning<br><a href="https://moe-edtech-staging.netlify.com//programme/keynote-sessions-2/panel-discussion/chad-ratliff/">Biography</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/Photo_Stephanie Passman.jpg" alt="Stephanie Passman" /><br></td>
-<td><br><strong>Stephanie Passman</strong><br />Head Teacher<br />Albemarle County Public Schools:<br />Laboratory Schools for Student-Centred Learning<br><a href="https://moe-edtech-staging.netlify.com//programme/panel-discussion/stephanie-passman/">Biography</a></td>
+<td><br><strong>Stephanie Passman</strong><br />Head Teacher<br />Albemarle County Public Schools:<br />Laboratory Schools for Student-Centred Learning<br><a href="https://moe-edtech-staging.netlify.com//programme/keynote-sessions-2/panel-discussion/stephanie-passman/">Biography</a></td>
 </tr>
 <tr>
 <td><br><img src="/images/Aaron Loh Photo.png" alt="Aaron Loh" /><br></td>
