@@ -3,7 +3,7 @@ title: Biography - Adrian Lim
 permalink: /programme/panel-discussion/adrian-lim/
 ---
 
-<div style="width:150px"><img src="/images/Adrian updated.png" alt="Adrian Lim" /></div>
+<div style="width:150px"><img src="/images/Adrian Lim Photo V2.jpg" alt="Adrian Lim" /></div>
 
 **Adrian Lim**<br>
 Director<br>
