@@ -73,3 +73,10 @@ There is no complimentary parking for participants. For directions on getting to
 
 As the intellectual property rights of the materials belong to the owners, we are unable to make them available to the participants.
 
+**17. Why was the event postponed?**
+
+The well-being of all our participants in the event remains our utmost priority. In view of the COVID-19 (Coronavirus Disease 2019) situation in Singapore, we have after careful deliberation decided to postpone MakerConnect 2020 to 25 June 2020.
+
+**18. Will the event be postponed again?**
+
+Depending on the COVID-19 situation, the event date could be subject to further changes.
