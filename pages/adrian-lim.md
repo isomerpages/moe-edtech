@@ -7,7 +7,8 @@ permalink: /programme/panel-discussion/adrian-lim/
 
 **Adrian Lim**<br>
 Director<br>
-Digital Participation and Foresight Division,<br> 
+Digital Literacy and Participation Division,<br> 
+(Digital Readiness Cluster)<br>
 Infocomm Media Development Authority
 
 ---
