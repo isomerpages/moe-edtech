@@ -3,11 +3,12 @@ title: Biography - Adrian Lim
 permalink: /programme/panel-discussion/adrian-lim/
 ---
 
-<div style="width:150px"><img src="/images/Adrian Lim Photo.JPG" alt="Adrian Lim" /></div>
+<div style="width:150px"><img src="/images/Adrian updated.PNG" alt="Adrian Lim" /></div>
 
 **Adrian Lim**<br>
 Director<br>
-Digital Participation and Foresight Division,<br> 
+Digital Literacy and Participation Division,<br> 
+(Digital Readiness Cluster)<br>
 Infocomm Media Development Authority
 
 ---
