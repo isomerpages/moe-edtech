@@ -31,7 +31,7 @@ As the movement continues to grow and evolve, one of the biggest questions that 
 <td><br><strong>Aaron Loh</strong><br />Divisional Director<br />Educational Technology Division<br />MOE<br><a href="https://moe-edtech-staging.netlify.com/programme/panel-discussion/aaron-loh/">Biography</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/Adrian Lim Photo.JPG" alt="Adrian Lim" /><br></td>
+<td><br><img src="/images/Adrian updated.PNG" alt="Adrian Lim" /><br></td>
 <td><br><strong>Adrian Lim</strong><br />Director<br />Digital Literacy and Participation Division<br />(Digital Readiness Cluster)<br />IMDA<br><a href="https://moe-edtech-staging.netlify.com/programme/panel-discussion/adrian-lim/">Biography</a></td>
 </tr>
 </tbody>
