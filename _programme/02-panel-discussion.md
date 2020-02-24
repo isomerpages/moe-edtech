@@ -32,7 +32,7 @@ As the movement continues to grow and evolve, one of the biggest questions that 
 </tr>
 <tr>
 <td><br><img src="/images/Adrian Lim Photo.JPG" alt="Adrian Lim" /><br></td>
-<td><br><strong>Adrian Lim</strong><br />Director<br />Digital Participation and Foresight Division<br />(Digital Readiness Cluster)<br />IMDA<br><a href="https://moe-edtech-staging.netlify.com/programme/panel-discussion/adrian-lim/">Biography</a></td>
+<td><br><strong>Adrian Lim</strong><br />Director<br />Digital Literacy and Participation Division<br />(Digital Readiness Cluster)<br />IMDA<br><a href="https://moe-edtech-staging.netlify.com/programme/panel-discussion/adrian-lim/">Biography</a></td>
 </tr>
 </tbody>
 </table>
