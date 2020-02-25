@@ -6,6 +6,7 @@ permalink: /faq/
 ### **FAQ**
 
 <div class=text-justify>
+  
 **1. Who are the organisers of MakerConnect 2020?**
 
 MakerConnect 2020 is co-organised by the Ministry of Education, Singapore and the Infocomm Media Development Authority (IMDA).
