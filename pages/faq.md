@@ -3,8 +3,6 @@ title: FAQ
 permalink: /faq/
 ---
 
-<!-- .slide: style="text-align: left;"> -->  
-
 ### **FAQ**
 
 **1. Who are the organisers of MakerConnect 2020?**
