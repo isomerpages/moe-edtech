@@ -13,7 +13,7 @@ sections:
             - title: PANEL DISCUSSION
               url: /programme/panel-discussion/
             - title: SHARING SESSION
-              url: /programme/sharing-sessions/
+              url: /programme/sharing-sessions/sharing-session-1/
             - title: EXPLORATION SESSION
               url: /programme/exploration-session/
 
