@@ -3,7 +3,9 @@ url: https://www.edtech.moe.edu.sg
 favicon: /images/ETD logo.png
 
 collections:
-  programme:
+  teacher-resources:
+    output: true
+  student-resources:
     output: true
 
 ##################################################################################################################
