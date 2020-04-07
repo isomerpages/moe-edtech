@@ -2,11 +2,11 @@ logo: /images/ETD logo.png
 
           
 links:
-  - title: About
-    url: /about/
-  - title: For Teachers
-    collection: For Teachers
-  - title: For Students
-    collection: For Students
+  - title: About Us
+    url: /about-us/
+  - title: Teacher Resources
+    collection: Teacher Resources
+  - title: Student Resources
+    collection: Student Resources
   - title: FAQ
     url: /faq/
