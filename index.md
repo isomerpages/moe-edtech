@@ -8,9 +8,9 @@ sections:
     - hero:
         background: /images/hero_banner1.png
         key_highlights:
-            - title: FOR TEACHERS
-              url: /for-teachers/
-            - title: FOR STUDENTS
-              url: /for-students/
+            - title: TEACHER RESOURCES
+              url: /teacher-resources/
+            - title: STUDENT RESOURCES
+              url: /student-resources/
 
 ---
