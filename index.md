@@ -6,7 +6,7 @@ permalink: /
 notification: Students' Guide to Video Conferencing with Teachers is now available!
 sections:
     - hero:
-        background: /images/hero-banner1.png
+        background: /images/hero_banner1.png
         key_highlights:
             - title: FOR TEACHERS
               url: /for-teachers/
