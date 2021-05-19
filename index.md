@@ -1,20 +1,16 @@
 ---
 layout: homepage
-title: MakerConnect 2020
-description: MakerConnect 2020 aims to gather MOE educators to share their insights, practices and experiences in Maker Education.
+title: Educational Technology Division
+description: E-resources for Home-Based Learning (HBL) to support curriculum continuity
 permalink: /
-notification: Event has been postponed to 25 June 2020!
+notification: Students' Guide to Video Conferencing with Teachers is now available!
 sections:
     - hero:
-        background: /images/hero-banner.png
+        background: /images/hero_banner1.png
         key_highlights:
-            - title: KEYNOTE SESSIONS
-              url: /programme/keynote-sessions/keynote-session-1/
-            - title: PANEL DISCUSSION
-              url: /programme/panel-discussion/
-            - title: SHARING SESSION
-              url: /programme/sharing-sessions/sharing-session-1/
-            - title: EXPLORATION SESSION
-              url: /programme/exploration-session/
+            - title: TEACHER RESOURCES
+              url: /teacher-resources/
+            - title: STUDENT RESOURCES
+              url: /student-resources/
 
 ---

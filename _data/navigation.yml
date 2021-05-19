@@ -1,10 +1,12 @@
-logo: /images/logo.png
+logo: /images/ETD logo.png
 
           
 links:
-  - title: About
-    url: /about/
-  - title: Programme
-    collection: programme
+  - title: About Us
+    url: /about-us/
+  - title: Teacher Resources
+    collection: teacher-resources
+  - title: Student Resources
+    collection: student-resources
   - title: FAQ
     url: /faq/

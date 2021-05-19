@@ -1,9 +1,11 @@
-title: MakerConnect 2020
+title: Educational Technology Division
 url: https://www.edtech.moe.edu.sg
-favicon: /images/favicon.png
+favicon: /images/ETD logo.png
 
 collections:
-  programme:
+  teacher-resources:
+    output: true
+  student-resources:
     output: true
 
 ##################################################################################################################
